@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Loïc Grolleau — @Espilonn" width="100%">
-</p>
-
-**Salut, moi c'est Loïc.** Étudiant ingénieur à l'INSA Rouen-Normandie.
+<p align="center"><b>Salut, moi c'est Loïc.</b> Étudiant ingénieur à l'INSA Rouen-Normandie.</p>
 
 ## 🧩 Dépôts
 
@@ -12,12 +8,12 @@
 
 ## ⭐ Projets phares
 
-| Projet | Description | Stack |
-|---|---|---|
-| [**MyWhisper**](https://github.com/Espilonn/MyWhisper) | Alternative a wisperflow, 100% local, intégré au clavier gboard | `Kotlin` |
-| [**Infinite-Horizon**](https://github.com/Espilonn/Infinite-Horizon) | — | `Pascal` |
-| [**Fronde**](https://github.com/Espilonn/Fronde) | — | `Pascal` |
+<p align="center">
+  <a href="https://github.com/Espilonn/MyWhisper"><img src="assets/mywhisper.svg" width="32%" alt="MyWhisper — alternative à Wisperflow, 100 % local, clavier Gboard"></a>
+  <a href="https://github.com/Espilonn/Infinite-Horizon"><img src="assets/infinite-horizon.svg" width="32%" alt="Infinite-Horizon — Pascal"></a>
+  <a href="https://github.com/Espilonn/Fronde"><img src="assets/fronde.svg" width="32%" alt="Fronde — Pascal"></a>
+</p>
 
 ## 🛠️ Langages
 
-`Python` `Pascal` `C`
+<p align="center"><code>Python</code> &nbsp; <code>Pascal</code> &nbsp; <code>C</code></p>
