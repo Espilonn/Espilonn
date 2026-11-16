@@ -6,6 +6,12 @@
   <img src="assets/grid.svg" alt="Grille de dépôts" width="100%">
 </p>
 
+## 📈 Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2563eb/Espilonn" alt="Grille de commits" width="100%">
+</p>
+
 ## ⭐ Projets phares
 
 <p align="center">
