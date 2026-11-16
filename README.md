@@ -23,6 +23,7 @@ I like understanding how things work — from low-level code to complete applica
 - Systems programming and performance
 - Cybersecurity and computer networks
 - Android development and local-first applications
+
 > featured_projects
 <table>
   <tr>
