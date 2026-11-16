@@ -68,12 +68,14 @@ Kotlin      ███░░░░░░░  Nv. 3
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## Calendrier des contributions
+## 🔒 Zone verrouillée — Serpent des contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Espilonn/Espilonn/output/snake-dark.svg">
-  <img alt="Serpent qui mange le calendrier de contributions" src="https://raw.githubusercontent.com/Espilonn/Espilonn/output/snake.svg">
-</picture>
+```
+🔒 Cette zone est scellée.
+   Quête requise pour la débloquer :
+   « Régler le billing de son compte GitHub »
+   (Settings → Billing — GitHub Actions est bloqué)
+```
 
 <img src="assets/divider.svg" alt="" width="100%">
 
