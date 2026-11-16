@@ -28,24 +28,24 @@ I like understanding how things work — from low-level code to complete applica
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · Local Voice</h3>
-      <p>A privacy-focused Android voice transcription app designed to run entirely on-device, with a clean interface inspired by minimalist mobile design.</p>
-      <p><sub><strong>Rust</strong> · <strong>Android</strong> · <strong>On-device AI</strong></sub></p>
-      <a href="https://github.com/Espilonn/LOCAL-VOICE-REPO">View project ↗</a>
+      <h3>01 · MyWhisper</h3>
+      <p>An Android voice transcription app that runs entirely on-device, built as an alternative to Wisperflow and integrated with the Gboard keyboard.</p>
+      <p><sub><strong>Kotlin</strong> · <strong>Android</strong> · <strong>On-device</strong></sub></p>
+      <a href="https://github.com/Espilonn/MyWhisper">View project ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · CAN Telemetry</h3>
-      <p>Exploring onboard data acquisition and communication for automotive applications using Raspberry Pi, microcontrollers, and the CAN bus.</p>
-      <p><sub><strong>C</strong> · <strong>Embedded</strong> · <strong>CAN bus</strong></sub></p>
-      <a href="https://github.com/Espilonn/CAN-PROJECT-REPO">View project ↗</a>
+      <h3>02 · Infinite-Horizon</h3>
+      <p>An endless platformer built with Pascal and SDL: survive the enemies and go as far as you can.</p>
+      <p><sub><strong>Pascal</strong> · <strong>SDL</strong> · <strong>Game</strong></sub></p>
+      <a href="https://github.com/Espilonn/Infinite-Horizon">View project ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Game of Life</h3>
-      <p>A C implementation of Conway's Game of Life, with a focus on modular code, memory handling, and automated tests.</p>
-      <p><sub><strong>C</strong> · <strong>CUnit</strong> · <strong>Algorithms</strong></sub></p>
-      <a href="https://github.com/Espilonn/GAME-OF-LIFE-REPO">View project ↗</a>
+      <h3>03 · Fronde</h3>
+      <p>A Pascal project built with SDL.</p>
+      <p><sub><strong>Pascal</strong> · <strong>SDL</strong></sub></p>
+      <a href="https://github.com/Espilonn/Fronde">View project ↗</a>
     </td>
     <td width="50%" valign="top">
       <h3>04 · More coming soon</h3>
