@@ -22,4 +22,6 @@
 
 ## 🛠️ Langages
 
-<p align="center"><code>Python</code> &nbsp; <code>Pascal</code> &nbsp; <code>C</code></p>
+<p align="center">
+  <img src="assets/langages.svg" alt="Photo de profil et langages : Python, Pascal, C" width="100%">
+</p>
