@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profil-langages.svg" alt="Loïc — Python, Pascal, C" width="100%">
+  <img src="assets/langages-v2.svg" alt="Loïc — Python, Pascal, C" width="100%">
 </p>
 
 <p align="center"><b>Salut, moi c'est Loïc.</b> Étudiant ingénieur à l'INSA Rouen-Normandie.</p>
@@ -13,7 +13,7 @@
 ## 📈 Contributions
 
 <p align="center">
-  <img src="assets/commits.svg" alt="Grille de commits" width="100%">
+  <img src="https://ghchart.rshah.org/2563eb/Espilonn" alt="Grille de contributions" width="100%">
 </p>
 
 ## ⭐ Projets phares
