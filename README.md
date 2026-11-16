@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Loïc Grolleau</h1>
+  <h1>Hi, I'm Loïc</h1>
   <p><strong>Engineering student · Software development · Embedded systems</strong></p>
   <p>
     Building useful software, exploring low-level systems, and connecting code with hardware.
