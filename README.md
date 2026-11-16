@@ -23,5 +23,5 @@
 ## 🛠️ Langages
 
 <p align="center">
-  <img src="assets/langages.svg" alt="Photo de profil et langages : Python, Pascal, C" width="100%">
+  <img src="assets/profil-langages.svg" alt="Photo de profil et langages : Python, Pascal, C" width="100%">
 </p>
