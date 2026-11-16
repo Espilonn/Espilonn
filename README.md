@@ -9,9 +9,9 @@
 ## ⭐ Projets phares
 
 <p align="center">
-  <a href="https://github.com/Espilonn/MyWhisper"><img src="assets/mywhisper.svg" width="32%" alt="MyWhisper — alternative à Wisperflow, 100 % local, clavier Gboard"></a>
-  <a href="https://github.com/Espilonn/Infinite-Horizon"><img src="assets/infinite-horizon.svg" width="32%" alt="Infinite-Horizon — Pascal"></a>
-  <a href="https://github.com/Espilonn/Fronde"><img src="assets/fronde.svg" width="32%" alt="Fronde — Pascal"></a>
+  <a href="https://github.com/Espilonn/MyWhisper"><img src="assets/card-mywhisper.svg" width="32%" alt="MyWhisper — alternative à Wisperflow, 100 % local, clavier Gboard"></a>
+  <a href="https://github.com/Espilonn/Infinite-Horizon"><img src="assets/card-infinite-horizon.svg" width="32%" alt="Infinite-Horizon — Pascal"></a>
+  <a href="https://github.com/Espilonn/Fronde"><img src="assets/card-fronde.svg" width="32%" alt="Fronde — Pascal"></a>
 </p>
 
 ## 🛠️ Langages
