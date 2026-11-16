@@ -23,7 +23,6 @@ I like understanding how things work — from low-level code to complete applica
 - Systems programming and performance
 - Cybersecurity and computer networks
 - Android development and local-first applications
-- Embedded systems and automotive communication (CAN bus)
 > featured_projects
 <table>
   <tr>
@@ -48,7 +47,7 @@ I like understanding how things work — from low-level code to complete applica
       <a href="https://github.com/Espilonn/Fronde">View project ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · More coming soon</h3>
+      <h3>04 · More</h3>
       <p>Small experiments, coursework, and side projects — documented as I build and improve them.</p>
       <p><sub><strong>Learning by building</strong></sub></p>
     </td>
