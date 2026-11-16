@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Loïc Grolleau — @Espilonn" width="100%">
+  <img src="assets/header.svg" alt="Loïc Grolleau — @Espilonn" width="100%">
 </p>
 
 **Salut, moi c'est Loïc.** Étudiant ingénieur à l'INSA Rouen-Normandie.
@@ -7,7 +7,7 @@
 ## 🧩 Dépôts
 
 <p align="center">
-  <img src="assets/repo-grid.svg" alt="Grille de dépôts" width="100%">
+  <img src="assets/grid.svg" alt="Grille de dépôts" width="100%">
 </p>
 
 ## ⭐ Projets phares
