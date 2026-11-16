@@ -9,7 +9,7 @@
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/Espilonn" alt="Grille de commits" width="100%">
+  <img src="assets/commits.svg" alt="Grille de commits" width="100%">
 </p>
 
 ## ⭐ Projets phares
