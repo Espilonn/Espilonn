@@ -54,10 +54,6 @@ I like understanding how things work — from low-level code to complete applica
     </td>
   </tr>
 </table>> currently_exploring
-- Cybersecurity, networking, and Linux internals
-- Rust for efficient and reliable applications
-- Local AI and privacy-friendly software
-- Embedded development and vehicle systems
 <div align="center">
   <sub>Stay curious. Build things. Understand how they work.</sub>
 </div>
