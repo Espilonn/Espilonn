@@ -1,16 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 176" width="400" height="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1a33"/>
+      <stop offset="0" stop-color="#0a1730"/>
       <stop offset="1" stop-color="#12305f"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="398" height="174" rx="16" fill="url(#g)" stroke="#1e3a8a" stroke-opacity="0.6"/>
-  <text x="24" y="58" font-size="38" font-weight="700" fill="#1d4ed8" opacity="0.22">01</text>
-  <text x="24" y="98" font-size="24" font-weight="700" fill="#f0f7ff">MyWhisper</text>
-  <text x="364" y="96" font-size="20" fill="#1d4ed8">→</text>
-  <text x="24" y="122" font-size="12.5" fill="#93c5fd">Alternative à Wisperflow,</text>
-  <text x="24" y="137" font-size="12.5" fill="#93c5fd">100 % local, clavier Gboard</text>
-  <rect x="24" y="140" width="64" height="24" rx="12" fill="#1d4ed8" fill-opacity="0.28"/>
-  <text x="56.0" y="156" font-size="12" fill="#dbeafe" text-anchor="middle">Kotlin</text>
+  <rect x="1" y="1" width="398" height="174" rx="16" fill="url(#g)" stroke="#1d4ed8" stroke-opacity="0.45"/>
+  <text x="24" y="60" font-size="40" font-weight="700" fill="#1d4ed8" opacity="0.22">01</text>
+  <text x="24" y="100" font-size="27" font-weight="700" fill="#f0f7ff">MyWhisper</text>
+  <rect x="310.4" y="76" width="65.6" height="26" rx="13" fill="#1d4ed8" fill-opacity="0.3"/>
+  <text x="343.2" y="94" font-size="13" fill="#dbeafe" text-anchor="middle">Kotlin</text>
+  <text x="24" y="132" font-size="15.5" fill="#9ec5f8">Alternative à Wisperflow,</text>
+  <text x="24" y="151" font-size="15.5" fill="#9ec5f8">100 % local, clavier Gboard</text>
 </svg>
