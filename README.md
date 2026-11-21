@@ -10,7 +10,8 @@
     </a>
     <img src="https://img.shields.io/badge/Location-France-242938?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: France" />
   </p>
-</div>> whoami
+</div>
+> whoami
 I'm an engineering student at INSA Rouen Normandie, interested in software engineering, cybersecurity, and embedded systems.
 
 I like understanding how things work — from low-level code to complete applications — and building tools that are practical, efficient, and thoughtfully designed.
